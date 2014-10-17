@@ -10,6 +10,9 @@ To-do list
   accesory_overlay.py
     class TetPixels
       methods????
+      
+  For spacial recognition, similar to tetris but on a pixel by pixel level, set tol=5-7 by default,
+  locate best fit, rinse and repeat if best fit could not be found. Make this one first.
     
     dummy class Overlay
     
